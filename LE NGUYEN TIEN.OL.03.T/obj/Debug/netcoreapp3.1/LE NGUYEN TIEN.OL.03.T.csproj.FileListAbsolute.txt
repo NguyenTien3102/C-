@@ -1,0 +1,5 @@
+C:\Users\ADMIN\Documents\C++\LE NGUYEN TIEN.OL.03.T\obj\Debug\netcoreapp3.1\LE NGUYEN TIEN.OL.03.T.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\C++\LE NGUYEN TIEN.OL.03.T\obj\Debug\netcoreapp3.1\LE NGUYEN TIEN.OL.03.T.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\C++\LE NGUYEN TIEN.OL.03.T\obj\Debug\netcoreapp3.1\LE NGUYEN TIEN.OL.03.T.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\C++\LE NGUYEN TIEN.OL.03.T\obj\Debug\netcoreapp3.1\LE NGUYEN TIEN.OL.03.T.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\C++\LE NGUYEN TIEN.OL.03.T\obj\Debug\netcoreapp3.1\LE NGUYEN TIEN.OL.03.T.csproj.CoreCompileInputs.cache
