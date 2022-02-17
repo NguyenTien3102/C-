@@ -8,61 +8,24 @@ namespace _D15CNPM3_.LE_NGUYEN_TIEN.OL._04
         // Fields 
         private string MaSV;
         private string HoTen;
-        private float diemTL, diemTH;
+        private string DTB;
+        private string Lop;
 
 
         public void Nhap()
         {
-            public int getMaSV()
-            {
-                return maSV;
-            }
-
-            public void setMaSV(int maSV)
-            {
-                this.maSV = maSV;
-            }
-
-            public String getTenSV()
-            {
-                return tenSV;
-            }
-
-            public void setTenSV(String tenSV)
-            {
-                this.tenSV = tenSV;
-            }
-
-            public float getDiemTL()
-            {
-                return diemTL;
-            }
-
-            public void setDiemTL(float diemTL)
-            {
-                this.diemTL = diemTL;
-            }
-
-            public float getDiemTH()
-            {
-                return diemTH;
-            }
-
-            public void setDiemTH(float diemTH)
-            {
-                this.diemTH = diemTH;
-            }
-            // tính điểm trung bình 
-            public float tinhDiemTB()
-            {
-                return (diemTH + diemTL) / 2;
-            }
-            public void Xuat() 
-
-            public String toString()
-            {
-                return maSV + " - " + tenSV + " diem Tb : " + tinhDiemTB();
-            }
+            Console.Write("Ma SV: ");
+            MaSV = Console.ReadLine();
+            Console.Write("Ten SV: ");
+            HoTen = Console.ReadLine();
+            Console.Write("DTB: ");
+            DTB = Console.ReadLine();
+            Console.Write("Lop: ");
+            Lop = Console.WriteLine();
+        }
+        public void Xuat()
+        {
+            Console.WriteLine($"{MaSV}\t{HoTen}\t{DTB}");
         }
 
     }
